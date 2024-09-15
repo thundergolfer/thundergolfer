@@ -18,7 +18,7 @@ I'm bullish on, and a big booster of:
    * [_From Data Engineer to SysAdmin: Put down the K8s cluster, your pipelines can run without it_](https://thundergolfer.com/kubernetes/infrastructure/data-engineering/2021/11/04/from-data-eng-to-sys-admin-put-down-k8s/)
    * [_The first 99,999 writes are free: Or, why lazy StringIO.write() may sprint into a memmove wall_](https://thundergolfer.com/performance/profiling/2022/08/05/stringio-bytes-written-per-second/)
    * [_What's in a name? The Data Scientist vs. Machine Learning Engineer title bore._](https://thundergolfer.com/machine-learning/communication/career/2021/10/30/the-ds-vs-mle-title-bore/)
-* **[ddiaflashcards.com](ddiaflashcards.com)** - Building a study deck for a much loved software textbook. A small digital product, available for 🥜 $$.
+* **[ddiaflashcards.com](https://ddiaflashcards.com)** - Building a study deck for a much loved software textbook. A small digital product, available for 🥜 $$.
 
 #### Past Projects
 
